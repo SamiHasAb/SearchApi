@@ -32,9 +32,6 @@ GET: http://localhost:8080/api/employees/advanced-search?name=John&minAge=30&max
 GET: http://localhost:8080/api/employees/advanced-search?minSalary=60000&maxSalary=120000&department=Engineering&page=0&size=20     
 GET: http://localhost:8080/api/employees/advanced-search?position=Manager&active=true&page=0&size=20   
 GET: http://localhost:8080/api/employees/advanced-search?name=Smith&minAge=25&maxAge=35&minSalary=50000&maxSalary=80000&page=0&size=20   
-GET:    
-GET:    
-GET:    
 
 
 
